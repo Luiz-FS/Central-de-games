@@ -15,7 +15,7 @@ import exceptions.SteamException;
  * @author Luiz Fernando da Silva
  *
  */
-public class Jogo {
+public abstract class Jogo {
 
 	private String nome;
 	private double preco;
