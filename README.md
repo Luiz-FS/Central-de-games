@@ -1,2 +1,2 @@
 # Central-de-games
-lab02 de programação 2
+lab02 de programação 2.
